@@ -1,4 +1,4 @@
-# 🚗 Shadow-Sim — Real-Time Vehicle Digital Twin & Interactive Simulation Platform
+# 🚗   Shadow-Sim — Real-Time Vehicle Digital Twin & Interactive Simulation Platform
 
 A complete, production-grade simulation platform featuring a controllable 3D vehicle, real-time telemetry streaming, predictive dead-reckoning, and a synchronized digital twin.
 
