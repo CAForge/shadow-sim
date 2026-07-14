@@ -4,7 +4,7 @@ A complete, production-grade simulation platform featuring a controllable 3D veh
 
 ---
 
-## 📐 Architecture
+## 📐 Architecture: -
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
